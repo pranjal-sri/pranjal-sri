@@ -27,3 +27,7 @@ You can check out my personal projects here.
   
 - **[Collision Simulator](https://github.com/pranjal-sri/Collision-Simulator):** The internals of simulation systems and animation has always been fascinating to me. This project is a from-scratch implementation of a system of particles with event-driven simulation. It is written with Java Swing and can depict various phenomena like Brownian-motion, diffusion, pendulum and any other system with elastic collisions that you can initialise!
 
+- **[Feedback-augmented Search Engine](https://github.com/pranjal-sri/Feedback-Augmented-Search):** A Python-based search engine developed as part of Columbia University's CS6111 course. This project enhances search result relevance by incorporating user feedback, utilizing natural language processing techniques. Key components include query management, user interface handling, and query augmentation. The system is designed to iteratively refine search outcomes based on user interactions, improving the overall search experience.
+
+
+
